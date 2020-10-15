@@ -1,1 +1,1 @@
-connect url  https://aqueous-temple-16911.herokuapp.com/
+connect url  wss://aqueous-temple-16911.herokuapp.com/
