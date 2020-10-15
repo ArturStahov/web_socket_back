@@ -20,3 +20,7 @@ function broadcast(data){
         }
     })
 }
+
+app.listen(PORT,()=>{
+    console.log("connect")
+})
